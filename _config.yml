@@ -1,7 +1,7 @@
-name: thirtyiswhatyoumakeit
+name: Thirty Is What You Make It
 favicon: null
-layout_spectrum: 0.09300773032009602
-typography_spectrum: 0.5908652173820883
+layout_spectrum: 0.06766
+typography_spectrum: 0.15087
 title: Thirty is what you make it
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.6431543822400272
-  lightness: 0.3113066756632179
-  saturation: 0.46474869502708316
-  rhythmicContrast: 0.22487217979505658
+    - '#54808b'
+    - '#252757'
+    - '#8fc5c7'
+    - '#bb0800'
+    - '#cc5302'
+  brandStrength: 0.5625
+  lightness: 0.3125
+  saturation: 0.4375
+  rhythmicContrast: 0.25
 purpose: []
