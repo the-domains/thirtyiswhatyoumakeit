@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Entry 1: Setting my goals. Preparing to make my entry into thirties with my head up high.'
-datePublished: '2016-02-20T21:46:16.384Z'
-dateModified: '2016-02-20T21:45:54.959Z'
+datePublished: '2016-02-20T21:50:45.271Z'
+dateModified: '2016-02-20T21:50:41.816Z'
 title: They say goals without a plan are just dreams.
 author: []
 sourcePath: _posts/2016-02-20-they-say-goals-without-a-plan-are-just-dreams.md
@@ -76,7 +76,3 @@ maintain. I'm already busy but I can do it.
 I feel relieved already now that I've put this in writing.
 Next step. Plan what all this means. Scope it. Determine what successful
 completion will entail.
-
-APk��=P�/
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dd986ec-1295-497e-9d39-c8967af62b73.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/afca332f-e11b-48e6-9972-c3149e4689f8.jpg)
