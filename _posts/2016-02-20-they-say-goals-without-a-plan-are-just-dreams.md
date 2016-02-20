@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Entry 1: Setting my goals. Preparing to make my entry into thirties with my head up high.'
-datePublished: '2016-02-20T21:43:27.015Z'
-dateModified: '2016-02-20T21:43:01.190Z'
+datePublished: '2016-02-20T21:45:05.780Z'
+dateModified: '2016-02-20T21:44:47.853Z'
 title: They say goals without a plan are just dreams.
 author: []
+sourcePath: _posts/2016-02-20-they-say-goals-without-a-plan-are-just-dreams.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-20-they-say-goals-without-a-plan-are-just-dreams.md
-published: true
 url: they-say-goals-without-a-plan-are-just-dreams/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b401dd4-860f-4956-9844-73703ec65ca9.jpg)
+
 Entry 1 -
 
 > **They say goals without a plan are just dreams.**
